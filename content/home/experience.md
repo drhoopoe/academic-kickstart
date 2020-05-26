@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Assistant Professor"
+  company = "Dept. of Religious Studies, Univ. of South Carolina"
+  company_url = "https://www.sc.edu/study/colleges_schools/artsandsciences/religious_studies/index.php/"
+  location = "Columbia, SC"
+  date_start = "2016"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Classes taught include:
+
+  * Introduction to Islam
+  * Qurʾan and Hadith
+  * Sufism
+  * American Islamic Thought
+  * Religion and the Fantastic
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Postdoctoral Fellow"
+  company = "Annemarie Schimmel Kolleg, Rheinische Friedrische-Wilhelms Universität Bonn"
+  company_url = "https://www.mamluk.uni-bonn.de/"
+  location = "Bonn, Germany"
+  date_start = "2015"
+  date_end = "2016"
+  description = """Research on Mamluk intellectual history, particularly with regard to the science of letters and names (ʿilm al-ḥurūf wa-al-asmāʾ)."""
 
 +++
