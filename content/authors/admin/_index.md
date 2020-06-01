@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in various aspects of Islamic thought and culture, particularly with regard to the late-medieval Islamic Mediterranean.
+bio: My research delves into various aspects of Islamic thought and culture, particularly with regard to the late-medieval Arabic-speaking Mediterranean.
 
 interests:
 - Sufism
 - Occultism and esotericism
-- Islamic manuscripts and manuscript culture
+- Manuscripts and manuscript culture
 
 education:
   courses:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Noah Gardiner is an Assistant Professor of Religious Studies at the University of South Carolina, teaching on a range of subjects relating to Islam and the academic study of religion. His primary research interests are in Sufism, Islamic occultism, the science of letters and names (a.k.a. lettrism), and Islamic manuscript studies and manuscript culture, all with a focus on the late-medieval Islamic Mediterranean.
+Noah Gardiner is an Assistant Professor of Religious Studies at the University of South Carolina, teaching on a range of subjects relating to Islam and the academic study of religion. His primary research interests are in late-medieval Sufism, Islamic occultism, the science of letters and names (a.k.a. "lettrism"), and Islamic manuscripts and manuscript culture, all with a focus on the Arabic-speaking Islamic Mediterranean and its diasporas.
 
-This blog is will touch on all the topics mentioned above, but also other stuff Noah is interested in, which most recently is a bunch of FOSS and Linux stuff.
+This blog touches on all the topics mentioned above, as well other stuff Noah is interested in: the humanities crisis, ontologies theory, science fiction, anarchism, FOSS and Linux, and God knows what else.
