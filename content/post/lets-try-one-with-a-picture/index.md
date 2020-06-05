@@ -4,7 +4,7 @@ subtitle: It has a picture!
 date: 2020-06-05T12:29:33.479Z
 summary: A post with a picture.
 draft: false
-featured: false
+featured: true
 authors:
   - admin
 image:
