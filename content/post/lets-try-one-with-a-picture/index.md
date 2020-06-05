@@ -9,7 +9,7 @@ authors:
   - admin
 image:
   filename: arnold_helm_1924_view_of_cairo_from_the_muqattam.jpg
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
   caption: Arnold Heim, View of Cairo from the Muqattam, 1924
 ---
