@@ -10,33 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Religious Studies
+#role: Assistant Professor of Religious Studies
 
 # Organizations/Affiliations
-organizations:
-- name: University of South Carolina
-  url: "https://www.sc.edu/study/colleges_schools/artsandsciences/religious_studies/index.php"
+#organizations:
+#- name: University of South Carolina
+#  url: "https://www.sc.edu/study/colleges_schools/artsandsciences/religious_studies/index.php"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Sufism
-- Occultism and esotericism
-- Islamic manuscripts and manuscript culture
-- A bunch of other stuff
+#interests:
+#- Sufism
+#- Occultism and esotericism
+#- Islamic manuscripts and manuscript culture
+#- A bunch of other stuff
 
-education:
-  courses:
-  - course: PhD in Near Eastern Studies
-    institution: University of Michigan
-    year: 2014
-  - course: MA in Arabic and Islamic Studies
-    institution: University of Michigan
-    year: 2010
-  - course: BA in Western Esoteric Studies
-    institution: Brown University
-    year: 2007
+#education:
+#  courses:
+#  - course: PhD in Near Eastern Studies
+#    institution: University of Michigan
+#    year: 2014
+#  - course: MA in Arabic and Islamic Studies
+#    institution: University of Michigan
+#    year: 2010
+#  - course: BA in Western Esoteric Studies
+#    institution: Brown University
+#    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +71,4 @@ email: ""
 # Visitors
 ---
 
-I'm an Assistant Professor of Religious Studies at the University of South Carolina, and this is my personal academic blog. I teach on a range of subjects relating to Islam and the academic study of religion. My primary research interests are in late-medieval Sufism, Islamic occultism, the science of letters and names (a.k.a. "lettrism"), and Islamic manuscripts and manuscript culture, all with a focus on the Arabic-speaking Islamic Mediterranean and its diasporas. You can view most of my pbulications at my [academia.edu page](https://sc.academia.edu/NoahGardiner). **This blog** touches on things related to my research as well other stuff I'm interested in, like the humanities crisis, ontologies theory, science fiction, anarchism, Linux and FOSS, and God knows what else.
+My name is Noah Gardiner and I'm an Assistant Professor of Religious Studies at the [University of South Carolina](https://www.sc.edu/study/colleges_schools/artsandsciences/religious_studies/index.php), and this is my personal academic blog. I teach on a range of subjects relating to Islam and the academic study of religion. My primary research interests are in late-medieval Sufism, Islamic occultism, the science of letters and names (a.k.a. "lettrism"), and Islamic manuscripts and manuscript culture—all with a focus on the Arabic-speaking Islamic Mediterranean and its diasporas. You can view most of my pbulications at my [academia.edu page](https://sc.academia.edu/NoahGardiner). **This blog** will touch on things related to my research and, hopefully, a bunch of other stuff I'm interested in too, like the humanities crisis, ontologies theory, science fiction, anarchism, Linux and FOSS, and God knows what else.
