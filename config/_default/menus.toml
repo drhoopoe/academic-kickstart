@@ -47,5 +47,5 @@
 
 [[main]]
   name = "contact"
-  url = "#contact"
+  url = "contact_page/"
   weight = 40
