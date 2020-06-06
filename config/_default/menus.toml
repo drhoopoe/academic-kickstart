@@ -15,7 +15,7 @@
 
 [[main]]
   name = "about"
-  url = "about_page/"
+  url = "#about_page"
   weight = 20
 
 [[main]]
