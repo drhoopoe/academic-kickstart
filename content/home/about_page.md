@@ -16,6 +16,9 @@ tags = ["the_hoopoe"]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
+# Try to change font size
+font_size = M
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -23,11 +26,11 @@ tags = ["the_hoopoe"]
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
- color = "navy"
+# color = "navy"
 
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+#  gradient_start = "DarkGreen"
+#  gradient_end = "ForestGreen"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
