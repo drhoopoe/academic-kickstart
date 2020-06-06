@@ -1,6 +1,7 @@
 ---
 title: about the hoopoe
 date: "2020-06-6T00:00:00+01:00"
+tags: ["the_hoopoe"]
 draft: false
 share: false
 commentable: false

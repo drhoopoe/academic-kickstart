@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 #
 ################################################################
-# So far I've changed it to cut the menu down to just
-# blog, about, and contact. 
+# I've cut the menus down to just
+# blog, about, tags, and contact. 
 # ##############################################################
 
 #[[main]]
@@ -22,6 +22,11 @@
   name = "blog"
   url = "#posts"
   weight = 10
+
+[[main]]
+  name = "tags"
+  url = "#tags"
+  weight = 30
 
 #[[main]]
 #  name = "Projects"
@@ -43,4 +48,4 @@
 [[main]]
   name = "contact"
   url = "#contact"
-  weight = 30
+  weight = 40
