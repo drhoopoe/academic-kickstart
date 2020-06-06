@@ -8,9 +8,14 @@
 # blog, about, and contact. 
 # ##############################################################
 
+#[[main]]
+#  name = "about"
+#  url = "#about"
+#  weight = 20
+
 [[main]]
   name = "about"
-  url = "#about"
+  url = "about_page/"
   weight = 20
 
 [[main]]
