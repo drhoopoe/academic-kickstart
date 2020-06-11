@@ -11,7 +11,7 @@ editable: false
 featured: true
 
 ---
-{{< figure library="true" src="hoopoe_skull" title="" lightbox="true" >}}
+{{< figure library="true" src="hoopoe_skull.jpg" title="" lightbox="true" >}}
 
 # under construction
 
