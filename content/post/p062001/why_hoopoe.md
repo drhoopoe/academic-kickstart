@@ -39,7 +39,7 @@ So how does this funny-looking little bird accomplish that? By being a transhist
 Part of what lends the hoopoe its symbolic potency, at least in Islamic thought, is that it's one of only three birds mentioned by name in the Qurʾan.[^1]
 This occurs in a story in Sūrat al-Naml ([Q 27:15-44](https://quran.com/27/15-44)) about everyone's favorite prophet-magician-king, Solomon (Sulaymān), and his encounter with Bilqīs, the queen of Sheba (Sabaʾ, i.e. eastern Yemen). 
 
-{{< figure src="Q27-20.jpg" title="And he (Solomon) surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent? - Qurʾan 27" lightbox="true" >}}
+#{{< figure src="Q27-20.jpg" title="And he (Solomon) surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent? - Qurʾan 27" lightbox="true" >}}
 
 The hoopoe's initial absence is due to it's being in Yemen gathering intelligence on Bilqīs, but it quickly returns to report on this queen of a nation of sun-worshipping pagans, later shuttling messages back and forth between the two rulers. 
 In the end, Solomon succeeds in guiding Bilqīs to the worship of God, though only by dispatching his jinn to whisk her magnificent throne away from her palace in Maʿrib and into his in Jerusalem. 
@@ -49,7 +49,7 @@ One of the bird's most famous roles in Islamic literature, for example, is in Fa
 In this extended allegory of the Sufi path, in which a disparate flock of birds journeys in search of their mysterious king, Simurgh, the hoopoe takes on the role of far-seeing guide and spiritual counselor.
 That is, it becomes the symbol of the Sufi shaykh who sees across the visible and invisible worlds and uses this insight to lead others to inner knowledge of God.
 
-{{< figure src="Simurgh_DIA.jpg" title="Rustam and the Simurgh, Detroit Institute of Arts, accession no. 74.85.A" lightbox="true" >}}
+#{{< figure src="Simurgh_DIA.jpg" title="Rustam and the Simurgh, Detroit Institute of Arts, accession no. 74.85.A" lightbox="true" >}}
 
 ## ...and in other sources
 
