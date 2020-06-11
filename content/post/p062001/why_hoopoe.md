@@ -16,12 +16,9 @@ share: false
 commentable: false
 editable: false
 featured: true
-image:
-caption: "Image from Eleazar Albin, A Natural History of Birds, Illustrated with a Hundred and One Copper Plates, Curiously Engraven from the Life, London, 1731, p. 139"
-focal_point: "Smart"
-preview_only: false
 
 ---
+{{< figure library="true" src="de-epops.jpg" title="Image from Eleazar Albin, A Natural History of Birds, Illustrated with a Hundred and One Copper Plates, Curiously Engraven from the Life, London, 1731" lightbox="true" >}}
 
 ## Introduction
 
