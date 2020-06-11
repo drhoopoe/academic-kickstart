@@ -16,7 +16,7 @@ commentable: false
 editable: false
 featured: false
 
-image: de-upupa.jpg
+image: featured.jpg
   placement: 1
   focal_point: ""
   preview_only: false
