@@ -1,21 +1,28 @@
 ---
-title: Why the hoopoe?
-subtitle: The name of this blog is what?
-date: "2020-06-10T00:00:00Z"
-tags: ["the_hoopoe";"Quran";"Sufism";"Magic";"Esotericism"]
+title: 'Why the hoopoe?'
+subtitle: 'The name of this blog is what?'
+authors: 
+- admin
+tags:
+- the_hoopoe
+- Quran
+- Sufism
+- Magic
+- Esotericism
 draft: false
+date: "2020-06-10T00:00:00Z"
 share: false
 commentable: false
 editable: false
 featured: false
-authors:
-  - admin
 
 image: 
   filename: opt-img/de-upupa.jpg
-  focal_point: Smart
+  placement: 1
+  focal_point: ""
   preview_only: false
-  caption: Image from Eleazar Albin, *A Natural History of Birds: Illustrated with a Hundred and One Copper Plates, Curiously Engraven from the Life* (London, 1731), p. 139. Source: Flickr.com's Internet Archive Book Images
+  caption: 'Image from Eleazar Albin, *A Natural History of Birds: Illustrated with a Hundred and One Copper Plates, Curiously Engraven from the Life* (London, 1731), p. 139'
+
 ---
 
 ## Introduction
