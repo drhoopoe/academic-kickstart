@@ -17,7 +17,7 @@ editable: false
 featured: false
 
 image: 
-  filename: opt-img/de-upupa.jpg
+  filename: de-upupa.jpg
   placement: 1
   focal_point: ""
   preview_only: false
@@ -41,7 +41,7 @@ This occurs in a story in Sūrat al-Naml ([Q 27:15-44](https://quran.com/27/15-4
 
 ---
 image: 
-  filename: opt-img/Q27-20.jpg
+  filename: Q27-20.jpg
   focal_point: Smart
   preview_only: false
   caption: "And he \[Solomon\] surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent?" - Qurʾan 27:20
@@ -58,7 +58,7 @@ That is, it becomes the symbol of the Sufi shaykh who sees across the visible an
 
 ---
 image: 
-  filename: opt-img/Simurgh_DIA.jpg
+  filename: Simurgh_DIA.jpg
   focal_point: Smart
   preview_only: false
   caption: "/"Rustam and the Simurgh,/" Detroit Institute of Arts, accession no. 74.85.A
