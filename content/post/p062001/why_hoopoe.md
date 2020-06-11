@@ -16,8 +16,7 @@ commentable: false
 editable: false
 featured: false
 
-image: 
-  filename: de-upupa.jpg
+image: de-upupa.jpg
   placement: 1
   focal_point: ""
   preview_only: false
@@ -40,8 +39,7 @@ Part of what lends the hoopoe its symbolic potency, at least in Islamic thought,
 This occurs in a story in Sūrat al-Naml ([Q 27:15-44](https://quran.com/27/15-44)) about everyone's favorite prophet-magician-king, Solomon (Sulaymān), and his encounter with Bilqīs, the queen of Sheba (Sabaʾ, i.e. eastern Yemen). 
 
 ---
-image: 
-  filename: Q27-20.jpg
+image: Q27-20.jpg
   focal_point: Smart
   preview_only: false
   caption: "And he \[Solomon\] surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent?" - Qurʾan 27:20
@@ -57,8 +55,7 @@ In this extended allegory of the Sufi path, in which a disparate flock of birds 
 That is, it becomes the symbol of the Sufi shaykh who sees across the visible and invisible worlds and uses this insight to lead others to inner knowledge of God.
 
 ---
-image: 
-  filename: Simurgh_DIA.jpg
+image: Simurgh_DIA.jpg
   focal_point: Smart
   preview_only: false
   caption: "/"Rustam and the Simurgh,/" Detroit Institute of Arts, accession no. 74.85.A
