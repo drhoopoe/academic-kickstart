@@ -22,10 +22,10 @@ featured: true
 
 ## Introduction
 
-The hoopoe (*Upupa epops*, Ar. *al-hudhud*) is a long-beaked, colorfully crested migratory bird that ranges across many of the hot parts of Eurasia and Africa. 
+The hoopoe (*Upupa epops*, Ar. *al-hudhud*) is a long-beaked, colorfully crested migratory bird that ranges across many hot parts of Eurasia and Africa. 
 It's charming, obviously, but why name an academic blog with a focus on Islamic occultism and Sufism after it?
 
-I could have gone the safer route and just registered myname.com, but where's the fun in that? I prefered instead something that would be evocative of the sort of things I work on, at least for those with ears to hear.
+I could have gone the safer route and just registered myname.com, but where's the fun in that? I instead preferred something that would be evocative of the sort of subjects I work on, at least for those with ears to hear.
 So how does this funny-looking little bird accomplish that? Well, in short, by being an age-old, transconfessional emblem of occult and mystical power.
 
 
@@ -36,12 +36,12 @@ This occurs in a story in Sūrat al-Naml ([Q 27:15-44](https://quran.com/27/15-4
 
 The beginning of the story finds Solomon gathering his armies of humans, jinn, and animals and wondering where the hell exactly is the hoopoe...
 
-{< figure library="true" src="Q27-20.jpg" title="And he (Solomon) surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent? - Qurʾān 27" lightbox="true" >}}
+{< figure library="true" src="Q27-20.jpg" title="And he (Solomon) surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent? - Q 27:20" lightbox="true" >}}
 
-The hoopoe's not there because it's in Yemen gathering intelligence on Bilqīs. 
-Perhaps sensing Solomon's displeasure, it quickly returns to report on this queen of a nation of sun-worshipping pagans, and then spends several verses shuttling messages back and forth between the two rulers. 
+The hoopoe's not there when the story starts because it's in Yemen gathering intelligence on Bilqīs. 
+Perhaps sensing Solomon's displeasure, it returns in the blink of an eye to report on this queen of a nation of sun-worshipping pagans, and then spends several verses shuttling messages back and forth between the two rulers. 
 In the end, Solomon succeeds in guiding Bilqīs to the worship of God, though only by dispatching his jinn to whisk her magnificent throne away from her palace in Maʿrib and into his in Jerusalem. 
-A good deal of solar and other cosmological symbolism attends this story of prophethood, kingship, a talking bird, and jinn possessed of preternatural powers, and all these themes adhere to the hoopoe in later Islamic thought. 
+A good deal of solar and other cosmological symbolism attends this story of prophethood, kingship, a talking bird (or really, a king who speaks bird), and jinn possessed of preternatural powers, and all these themes adhere to the hoopoe in later Islamic thought. 
 
 One of the bird's most famous roles in Islamic literature, for example, is in the thirteenth-century Sufi poet Farīd al-Dīn ʿAttār's *Conference of the Birds* (*Manṭiq al-ṭayr*).[^2]
 In this extended allegory of the Sufi path, in which a disparate flock of birds journeys in search of their mysterious bird-king, Simurgh, the hoopoe takes on the role of far-seeing guide and spiritual counselor to its fellow avians.
@@ -60,13 +60,13 @@ Whatever the merits of this particular argument, the interplay of the visible an
 
 Not all references to the hoopoe are positive.
 It is twice mentioned in the Hebrew Bible as an unclean animal forbidden to be eaten.[^5] 
-This may help explain why an enormous and decidedly sinister-looking hoopoe (without its crest raised) appears almost dead-center in the middle panel of [Hieronymus Bosch's "The Garden of Earthly Delights](https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg.")
+This may help explain why an enormous and decidedly sinister-looking hoopoe (without its crest raised) appears almost dead-center in the middle panel of [Hieronymus Bosch's "The Garden of Earthly Delights](https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg.").
 It's also generally agreed upon that hoopoes smell terrible, though the meanings attributed to this can differ. 
-Yemeni medico-magical practitioners interviewed by anthropologist Nancy Dupree in the 1970s, for example, argued that God gave the hoopoe its foul smell to protect it from humans seeking to capture or kill it in order to exploit its wondrous properties.[^6]
+Yemeni medico-magical practitioners interviewed by anthropologist Nancy Dupree in the 1970s, for example, argued that God gave the hoopoe its foul odor to protect it from humans seeking to capture or kill it in order to exploit its wondrous properties.[^6]
 
 A pseudo-Hermetic text known as the *Cyranides*, parts of which date to late antiquity, is perhaps the oldest surviving testament to ideas about the magical and medical properties of various parts of the hoopoe's body.
 The text traveled far and wide for over a milleniumm in Latin, Arabic, and other languages. 
-Suffice to say that none of the procedures it recommends end well for the hoopoe,[^7] and it was just one of many texts that advised slaughtering the birds for their special bits.[^8] 
+Suffice to say that none of the procedures it recommends end well for the hoopoe,[^7] and it was just one of many texts that advised slaughtering the bird for its special bits.[^8] 
 
 According to the canonical *ḥadīth* collection *Sunan Abī Dāwūd*, the hoopoe is one of just four animals the Prophet Muḥammad explicitly forbade Muslims to kill,[^9] 
 Given the popularity of the aforementioned texts and practices, however, this hasn't always sufficed to protect the bird in Musliml-majority locales. 
@@ -88,4 +88,4 @@ Of course, this combination of venerating and slaughtering an animal is hardly u
 [^7]: To be fair, other animals don't fare so well in the *Cyranides* either. See, for example, this [great post](https://recipes.hypotheses.org/tag/cyranides) on a recipe from the text for an amulet made from red coral and seal skin.
 [^8]: The famous ninth-century medical encyclopedia *Firdaws al-ḥikmah*, for example, contains some hoopoe-based remedies; see Schum, "From Egypt to Mount Qāf," 48-49.
 [^9]: Sunan Abī Dāwūd
-ranian paper
+[^10]: Iranian paper
