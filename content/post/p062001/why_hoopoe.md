@@ -1,5 +1,5 @@
 ---
-title: "why the hoopoe?"
+title: "Why the hoopoe?"
 subtitle: ""
 authors: 
 - admin
@@ -25,8 +25,9 @@ featured: true
 The hoopoe (*Upupa epops*, Ar. *al-hudhud*) is a long-beaked, colorfully crested migratory bird that ranges across many of the hot parts of Eurasia and Africa. 
 It's charming, obviously, but why name an academic blog with a focus on Islamic occultism and Sufism after it?
 
-I could have gone the safer route and just registered myname.com, but where's the fun in that? Instead, I prefered something that would be evocative of the sort of things I work on—at least for those with ears to hear.
+I could have gone the safer route and just registered myname.com, but where's the fun in that? I prefered instead something that would be evocative of the sort of things I work on, at least for those with ears to hear.
 So how does this funny-looking little bird accomplish that? Well, in short, by being an age-old, transconfessional emblem of occult and mystical power.
+
 
 ## The hoopoe in Islamic sources
 
@@ -46,9 +47,9 @@ One of the bird's most famous roles in Islamic literature, for example, is in th
 In this extended allegory of the Sufi path, in which a disparate flock of birds journeys in search of their mysterious bird-king, Simurgh, the hoopoe takes on the role of far-seeing guide and spiritual counselor to its fellow avians.
 That is, it becomes the symbol of the Sufi shaykh who sees across the visible and invisible worlds and uses this insight to lead others to inner knowledge of God.
 
-{{< figure library="true" src="Mantiq_Isfahan.jpg" title="Folio 11r from Manṭiq al-ṭayr, Metropolitan Museum of Art acc. no. 63.210.11" lightbox="true" >}}
+{{< figure library="true" src="Mantiq_Isfahan.jpg" title="Folio 11r from *Manṭiq al-ṭayr*, MMA acc. no. 63.210.11. Note all the other birds looking at the hoopoe, at right." lightbox="true" >}}
 
-## ... and in other sources
+## And in other sources
 
 The Qurʾan was far from the only source of stories and ideas about the hoopoe in Afro-Eurasian thought. 
 As numerous scholars have discussed, hoopoes can be found engraven on temple walls in Old Kingdom Egypt; in histories, plays, and medical texts from ancient Greece and Rome; and in numerous works on magic from the late antique, medieval and early modern periods.[^3] 
@@ -72,7 +73,7 @@ Indeed, a recent paper by a group of Iranian researchers laments that the bird i
 
 
 
-## Notes:
+### Notes:
 [^1]: The other two are the crow (*al-ghurãb*) and the quail (*salwã*). Check out [the entry for "bird" in Quran.com's cool "Ontology of Concepts" tool](http://corpus.quran.com/concept.jsp?id=bird).
 [^2]: Links/editions
 [^3]: hoopoe biblio, esp Schum
