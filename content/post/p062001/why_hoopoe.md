@@ -1,10 +1,10 @@
 ---
-title: "Why the hoopoe?"
+title: "why the hoopoe?"
 subtitle: ""
 authors: 
 - admin
 tags:
-- the_hoopoe
+- the hoopoe
 - Quran
 - Sufism
 - Magic
@@ -22,31 +22,33 @@ featured: true
 
 ## Introduction
 
-The hoopoe ( *Upupa epops*, Ar. *al-hudhud*) is a colorful, crested, long-beaked migratory bird that ranges across many of the hot parts of Eurasia and Africa. 
-It's charming, obviously, but why name a personal academic blog with a focus on Islamic occultism and Sufism after it?
+The hoopoe (*Upupa epops*, Ar. *al-hudhud*) is a long-beaked, colorfully crested migratory bird that ranges across many of the hot parts of Eurasia and Africa. 
+It's charming, obviously, but why name an academic blog with a focus on Islamic occultism and Sufism after it?
 
-Certainly I could have gone the safer route and just registered myname.com, but where's the fun is that? I prefered something that would be evocative of the topics I work on, at least for those with ears to hear.
-
-So how does this funny-looking little bird accomplish that? By being a transhistorical, transconfessional emblem of occult and mystical power, of course.
+I could have gone the safer route and just registered myname.com, but where's the fun in that? Instead, I prefered something that would be evocative of the sort of things I work on—at least for those with ears to hear.
+So how does this funny-looking little bird accomplish that? Well, in short, by being an age-old, transconfessional emblem of occult and mystical power.
 
 ## The hoopoe in Islamic sources
 
 Part of what lends the hoopoe its symbolic potency, at least in Islamic thought, is that it's one of only three birds mentioned by name in the Qurʾan.[^1]
-This occurs in a story in Sūrat al-Naml ([Q 27:15-44](https://quran.com/27/15-44)) about everyone's favorite prophet-magician-king, Solomon (Sulaymān), and his encounter with Bilqīs, the queen of Sheba (Sabaʾ, i.e. eastern Yemen). 
+This occurs in a story in Sūrat al-Naml ([Q 27:15-44](https://quran.com/27/15-44)) about everyone's favorite prophet-magician-king, Solomon (Sulaymān), and his encounter with Bilqīs, the queen of Sheba (Sabaʾ, ancient eastern Yemen). 
+
+The beginning of the story finds Solomon gathering his armies of humans, jinn, and animals and wondering where the hell exactly is the hoopoe...
 
 {{< figure library="true" src="Q27-20.jpg" title="And he (Solomon) surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent? - Qurʾan 27" lightbox="true" >}}
 
-The hoopoe's initial absence is due to it's being in Yemen gathering intelligence on Bilqīs, but it quickly returns to report on this queen of a nation of sun-worshipping pagans, later shuttling messages back and forth between the two rulers. 
+The hoopoe's not there because it's in Yemen gathering intelligence on Bilqīs. 
+Perhaps sensing Solomon's displeasure, it quickly returns to report on this queen of a nation of sun-worshipping pagans, and then spends several verses shuttling messages back and forth between the two rulers. 
 In the end, Solomon succeeds in guiding Bilqīs to the worship of God, though only by dispatching his jinn to whisk her magnificent throne away from her palace in Maʿrib and into his in Jerusalem. 
+A good deal of solar and other cosmological symbolism attends this story of prophethood, kingship, a talking bird, and jinn possessed of preternatural powers, and all these themes adhere to the hoopoe in later Islamic thought. 
 
-A good deal of solar and cosmological symbolism attends this story of prophethood, kingship, divine guidance, and jinn possessed of preternatural powers, and all these themes tend to rub off on the hoopoe in Islamic thought. 
-One of the bird's most famous roles in Islamic literature, for example, is in Farīd al-Dīn ʿAttār's *Conference of the Birds* ( *Manṭiq al-ṭayr*).[^2]
-In this extended allegory of the Sufi path, in which a disparate flock of birds journeys in search of their mysterious king, Simurgh, the hoopoe takes on the role of far-seeing guide and spiritual counselor.
+One of the bird's most famous roles in Islamic literature, for example, is in the thirteenth-century Sufi poet Farīd al-Dīn ʿAttār's *Conference of the Birds* (*Manṭiq al-ṭayr*).[^2]
+In this extended allegory of the Sufi path, in which a disparate flock of birds journeys in search of their mysterious bird-king, Simurgh, the hoopoe takes on the role of far-seeing guide and spiritual counselor to its fellow avians.
 That is, it becomes the symbol of the Sufi shaykh who sees across the visible and invisible worlds and uses this insight to lead others to inner knowledge of God.
 
-{{< figure library="true" src="Simurgh_DIA.jpg" title="Rustam and the Simurgh, Detroit Institute of Arts, accession no. 74.85.A" lightbox="true" >}}
+{{< figure library="true" src="Mantiq_Isfahan.jpg" title="Folio 11r from Manṭiq al-ṭayr, Metropolitan Museum of Art acc. no. 63.210.11" lightbox="true" >}}
 
-## ...and in other sources
+## ... and in other sources
 
 The Qurʾan was far from the only source of stories and ideas about the hoopoe in Afro-Eurasian thought. 
 As numerous scholars have discussed, hoopoes can be found engraven on temple walls in Old Kingdom Egypt; in histories, plays, and medical texts from ancient Greece and Rome; and in numerous works on magic from the late antique, medieval and early modern periods.[^3] 
@@ -79,4 +81,4 @@ Indeed, a recent paper by a group of Iranian researchers laments that the bird i
 [^6]: Dupree
 [^7]: eg *Firdaws al-ḥikmah*
 [^8]: Sunan Abī Dāwūd
-[^9]: Iranian paper
+ranian paper

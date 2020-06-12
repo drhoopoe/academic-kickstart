@@ -1,5 +1,5 @@
 ---
-title: "site under construction"
+title: "Site under construction"
 subtitle: ""
 authors: 
 - admin
@@ -12,8 +12,6 @@ featured: true
 
 ---
 {{< figure library="true" src="hoopoe_skull.jpg" title="" lightbox="true" >}}
-
-# under construction
 
 This site is still under construction, but feel free to have a look around!
 
