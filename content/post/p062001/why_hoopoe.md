@@ -1,11 +1,11 @@
 ---
 title: "Why the hoopoe?"
-subtitle: ""
+subtitle: "On naming this site"
 authors: 
 - admin
 tags:
 - the hoopoe
-- Quran
+- Qurʾān
 - Sufism
 - Magic
 - Esotericism
@@ -18,7 +18,7 @@ editable: false
 featured: true
 
 ---
-{{< figure library="true" src="de-epops.jpg" title="Image from Eleazar Albin, A Natural History of Birds, Illustrated with a Hundred and One Copper Plates, Curiously Engraven from the Life, London, 1731" lightbox="true" >}}
+{{< figure library="true" src="de-epops.jpg" title="Image from Eleazar Albin, *A Natural History of Birds, Illustrated with a Hundred and One Copper Plates, Curiously Engraven from the Life*, London, 1731" lightbox="true" >}}
 
 ## Introduction
 
@@ -31,12 +31,12 @@ So how does this funny-looking little bird accomplish that? Well, in short, by b
 
 ## The hoopoe in Islamic sources
 
-Part of what lends the hoopoe its symbolic potency, at least in Islamic thought, is that it's one of only three birds mentioned by name in the Qurʾan.[^1]
+Part of what lends the hoopoe its symbolic potency, at least in Islamic thought, is that it's one of only three birds mentioned by name in the Qurʾān.[^1]
 This occurs in a story in Sūrat al-Naml ([Q 27:15-44](https://quran.com/27/15-44)) about everyone's favorite prophet-magician-king, Solomon (Sulaymān), and his encounter with Bilqīs, the queen of Sheba (Sabaʾ, ancient eastern Yemen). 
 
 The beginning of the story finds Solomon gathering his armies of humans, jinn, and animals and wondering where the hell exactly is the hoopoe...
 
-{{< figure library="true" src="Q27-20.jpg" title="And he (Solomon) surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent? - Qurʾan 27" lightbox="true" >}}
+{< figure library="true" src="Q27-20.jpg" title="And he (Solomon) surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent? - Qurʾān 27" lightbox="true" >}}
 
 The hoopoe's not there because it's in Yemen gathering intelligence on Bilqīs. 
 Perhaps sensing Solomon's displeasure, it quickly returns to report on this queen of a nation of sun-worshipping pagans, and then spends several verses shuttling messages back and forth between the two rulers. 
@@ -51,23 +51,28 @@ That is, it becomes the symbol of the Sufi shaykh who sees across the visible an
 
 ## And in other sources
 
-The Qurʾan was far from the only source of stories and ideas about the hoopoe in Afro-Eurasian thought. 
-As numerous scholars have discussed, hoopoes can be found engraven on temple walls in Old Kingdom Egypt; in histories, plays, and medical texts from ancient Greece and Rome; and in numerous works on magic from the late antique, medieval and early modern periods.[^3] 
-In many of these contexts the hoopoe is associated with the sun and kingship (much like in the Qurʾan), with fertility and filial piety, and with spiritual and occult power.
-One scholar has even tried to link the bird's name to the Greek mystery cults, arguing that the Greek *epops* was associated with the word *epopteia*, "beholding," which held a special ritual meaning in those groups.[^4]
+The Qurʾān was far from the only source of stories and ideas about the hoopoe in Afro-Eurasian thought. 
+As numerous scholars have discussed, hoopoes can be found on temple walls in Old Kingdom Egypt; in histories, plays, and medical texts from ancient Greece and Rome; and in numerous works on magic and medicine from the late antique, medieval and early modern periods.[^3] 
 
-Not all references to hoopoes are positive.
-They are twice mentioned in the Hebrew Bible as unclean animals forbidden to be eaten.[^5] 
-It is genrally agreed upon that they smell terrible, too, though the meaning of this is debated. 
-Modern Yemeni medico-magical practitioners interviewed by anthropologist Nancy Dupree, for example, argue that God gave the hoopoe its foul smell to protect it from humans seeking to capture or kill it in order to exploit its wondrous properties.[^6]
+Across these diverse milieux, the hoopoe is frequently associated with the sun and kingship (much like in the Qurʾān), often with fertility and filial piety, and almost always with spiritual and occult power.
+One scholar has argued, for example, that the Greek *epops* ("hoopoe") was associated etymologically with the word *epopteia*, "beholding," a term that often implied visionary forms of knowledge, particularly in the context of the Greek mystery cults.[^4] 
+Whatever the merits of this particular argument, the interplay of the visible and invisible indeed is a key theme in ideas and stories about the hoopoe.
 
-A pseudo-Hermetic text known as the *Cyranides*, thought to have originated in the fourth century C.E., is perhaps the oldest surviving witness for ideas about the extraordinary magical and medical powers of various parts of the hoopoe's body.
-Suffice to say that none of the procedures it describes end well for the bird.
-The *Cyranides* was translated into Latin and other European languages in the Middle Ages, and into Arabic by no later than the fourteenth century, and it was just one of many texts that advised slaughtering hoopoes for their special bits and pieces.[^7] 
+Not all references to the hoopoe are positive.
+It is twice mentioned in the Hebrew Bible as an unclean animal forbidden to be eaten.[^5] 
+This may help explain why an enormous and decidedly sinister-looking hoopoe (without its crest raised) appears almost dead-center in the middle panel of [Hieronymus Bosch's "The Garden of Earthly Delights](https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg.")
+It's also generally agreed upon that hoopoes smell terrible, though the meanings attributed to this can differ. 
+Yemeni medico-magical practitioners interviewed by anthropologist Nancy Dupree in the 1970s, for example, argued that God gave the hoopoe its foul smell to protect it from humans seeking to capture or kill it in order to exploit its wondrous properties.[^6]
 
-According to the canonical *ḥadīth* collection *Sunan Abī Dāwūd*, the hoopoe is one of just four animals the Prophet Muḥammad explicitly forbade Muslims to ever kill,[^8] 
-Given the popularity of these ideas, however, it seems that this didn't always suffice to protect the bird among Muslims in search of magico-medical remedies. 
-Indeed, a recent paper by a group of Iranian researchers laments that the bird is practically extinct in some regions of Iran due the continuing prevalence of such practices.[^9]
+A pseudo-Hermetic text known as the *Cyranides*, parts of which date to late antiquity, is perhaps the oldest surviving testament to ideas about the magical and medical properties of various parts of the hoopoe's body.
+The text traveled far and wide for over a milleniumm in Latin, Arabic, and other languages. 
+Suffice to say that none of the procedures it recommends end well for the hoopoe,[^7] and it was just one of many texts that advised slaughtering the birds for their special bits.[^8] 
+
+According to the canonical *ḥadīth* collection *Sunan Abī Dāwūd*, the hoopoe is one of just four animals the Prophet Muḥammad explicitly forbade Muslims to kill,[^9] 
+Given the popularity of the aforementioned texts and practices, however, this hasn't always sufficed to protect the bird in Musliml-majority locales. 
+Indeed, a recent paper by a group of Iranian researchers laments that the bird is practically extinct in some regions of Iran due the continuing prevalence of such practices.[^10]
+Of course, this combination of venerating and slaughtering an animal is hardly unique to the hoopoe in the annals of human history.
+
 
 ## Conclusion
 
@@ -76,10 +81,11 @@ Indeed, a recent paper by a group of Iranian researchers laments that the bird i
 ### Notes:
 [^1]: The other two are the crow (*al-ghurãb*) and the quail (*salwã*). Check out [the entry for "bird" in Quran.com's cool "Ontology of Concepts" tool](http://corpus.quran.com/concept.jsp?id=bird).
 [^2]: Links/editions
-[^3]: hoopoe biblio, esp Schum
-[^4]: R. Drew
+[^3]: For an excellent and recently-written roundup of humamistic scholarship on the hoopoe, see Timothy Schum, “From Egypt to Mount Qāf: The Symbolism of the Hoopoe in Muslim Literature and Folklore,” *Journal of Islamic and Muslim Studies* 3, no. 1 (2018): 37–57.
+[^4]: R. Drew Griffith, “The Hoopoe’s Name (A Note on ‘Birds’ 48),” *Quaderni Urbinati di Cultura Classica* 26, no. 2 (1987): 59-63, doi 10.2307/20538983.
 [^5]: [Deut. 14:12-18](https://www.sefaria.org/Deuteronomy.14.12-18?lang=bi&aliyot=0) and [Lev. 11:13-19](https://www.sefaria.org/Leviticus.11.13-19?lang=bi&aliyot=0).
-[^6]: Dupree
-[^7]: eg *Firdaws al-ḥikmah*
-[^8]: Sunan Abī Dāwūd
+[^6]: Nancy Dupree, “An Interpretation of the Role of the Hoopoe in Afghan Folklore and Magic,” *Folklore* 85, no. 3 (1974): 177.
+[^7]: To be fair, other animals don't fare so well in the *Cyranides* either. See, for example, this [great post](https://recipes.hypotheses.org/tag/cyranides) on a recipe from the text for an amulet made from red coral and seal skin.
+[^8]: The famous ninth-century medical encyclopedia *Firdaws al-ḥikmah*, for example, contains some hoopoe-based remedies; see Schum, "From Egypt to Mount Qāf," 48-49.
+[^9]: Sunan Abī Dāwūd
 ranian paper

@@ -13,4 +13,4 @@ My name is Noah Gardiner and I'm an Assistant Professor of Religious Studies at 
 I teach on a range of subjects relating to Islam and the study of religion. 
 My main research interests are Sufism, Islamic occultism, the science of letters and names (a.k.a. "lettrism"), and Islamic manuscripts and manuscript culture—all with a focus on the late-medieval Mediterranean and environs. 
 You can view most of my publications at my [academia.edu page](https://sc.academia.edu/NoahGardiner). 
-This blog will touch on subjects related to my research as well as a bunch of other stuff I'm interested in, like the humanities crisis, ontologies theory, science fiction, anarchism, Linux and FOSS, and God knows what else.
+This blog will touch on subjects related to my research as well as a bunch of other stuff I'm interested in, like the humanities crisis, materiality and ontologies theory, science fiction, anarchism, Linux and FOSS, and God knows what else.
