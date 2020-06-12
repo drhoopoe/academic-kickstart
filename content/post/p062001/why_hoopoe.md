@@ -36,7 +36,7 @@ This occurs in a story in Sūrat al-Naml ([Q 27:15-44](https://quran.com/27/15-4
 
 The beginning of the story finds Solomon gathering his armies of humans, jinn, and animals and wondering where the hell exactly is the hoopoe...
 
-{< figure library="true" src="Q27-20.jpg" title="And he (Solomon) surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent? - Q 27:20" lightbox="true" >}}
+{< figure library="true" src="Q27-20.jpg" title="And he (Solomon) surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent? - Q 27\:20" lightbox="true" >}}
 
 The hoopoe's not there when the story starts because it's in Yemen gathering intelligence on Bilqīs. 
 Perhaps sensing Solomon's displeasure, it returns in the blink of an eye to report on this queen of a nation of sun-worshipping pagans, and then spends several verses shuttling messages back and forth between the two rulers. 
