@@ -25,27 +25,30 @@ featured: true
 The hoopoe (*Upupa epops*, Ar. *al-hudhud*) is a long-beaked, colorfully crested migratory bird that ranges across many hot parts of Eurasia and Africa. 
 It's charming, obviously, but why name an academic blog with a focus on Islamic occultism and Sufism after it?
 
-I could have gone the safer route and just registered myname.com, but where's the fun in that? I instead preferred something that would be evocative of the sort of subjects I work on, at least for those with ears to hear.
-So how does this funny-looking little bird accomplish that? Well, in short, by being an age-old, transconfessional emblem of occult and mystical power.
+I could have gone the safer route and just registered myname.com, but how boring is that? I instead preferred something that would be evocative of the sort of subjects I work on, at least for those with ears to hear.
+So how does this funny-looking little bird accomplish that? Well, in short, by being an age-old Afro-Eurasian emblem of occult and mystical power.
+
 
 
 ## The hoopoe in Islamic sources
 
-Part of what lends the hoopoe its symbolic potency, at least in Islamic thought, is that it's one of only three birds mentioned by name in the Qurʾān.[^1]
+In Islamic thought, a big part of what lends the hoopoe its symbolic potency is that it's one of only three birds mentioned by name in the Qurʾān.[^1]
 This occurs in a story in Sūrat al-Naml ([Q 27:15-44](https://quran.com/27/15-44)) about everyone's favorite prophet-magician-king, Solomon (Sulaymān), and his encounter with Bilqīs, the queen of Sheba (Sabaʾ, ancient eastern Yemen). 
 
 The beginning of the story finds Solomon gathering his armies of humans, jinn, and animals and wondering where the hell exactly is the hoopoe...
 
 {{< figure library="true" src="Q27-20.jpg" title="And he \(Solomon\) surveyed the birds and said, Why do I not see the hoopoe? Or is it among the absent? - Qurʾān 27\:20" lightbox="true" >}}
 
-The hoopoe's not there when the story starts because it's in Yemen gathering intelligence on Bilqīs. 
-Perhaps sensing Solomon's displeasure, it returns in the blink of an eye to report on this queen of a nation of sun-worshipping pagans, and then spends several verses shuttling messages back and forth between the two rulers. 
+The hoopoe's not there at the outset because it's in Yemen gathering intelligence on Bilqīs. 
+Perhaps sensing Solomon's displeasure, it returns in the blink of an eye to report on this queen of a nation of sun-worshipping pagans.
+It then spends several verses shuttling messages back and forth between the two rulers. 
 In the end, Solomon succeeds in guiding Bilqīs to the worship of God, though only by dispatching his jinn to whisk her magnificent throne away from her palace in Maʿrib and into his in Jerusalem. 
-A good deal of solar and other cosmological symbolism attends this story of prophethood, kingship, a talking bird (or really, a king who speaks bird), and jinn possessed of preternatural powers, and all these themes adhere to the hoopoe in later Islamic thought. 
+A good deal of solar and other cosmological symbolism attends this story of prophethood, kingship, a talking bird (or really, a king who speaks bird), and spirit-beings possessed of preternatural powers, and all these themes tend to adhere to the hoopoe in later Islamic thought. 
 
-One of the bird's most famous roles in Islamic literature, for example, is in the thirteenth-century Sufi poet Farīd al-Dīn ʿAttār's *Conference of the Birds* (*Manṭiq al-ṭayr*).[^2]
-In this extended allegory of the Sufi path, in which a mixed flock of birds journeys in search of their mysterious bird-king, Simurgh, the hoopoe takes on the role of far-seeing guide and spiritual counselor to its fellow avians.
+For example, one of the bird's most famous roles in Islamic literature is in the thirteenth-century Persian Sufi poet Farīd al-Dīn ʿAttār's *Conference of the Birds* (*Manṭiq al-ṭayr*).[^2]
+In this extended allegory of the Sufi path, in which a mixed flock of birds journeys in search of their mysterious bird-king Simurgh, the hoopoe takes on the role of far-seeing guide and spiritual counselor to its fellow avians.
 That is, it becomes the symbol of the Sufi shaykh who sees across the visible and invisible worlds and uses this insight to lead others to inner knowledge of God.
+Not to leave powerful spirit-beings out of the story, ʿAṭṭār supplies the detail that the hoopoe became Solomon's confidante by defeating a demon.
 
 {{< figure library="true" src="Mantiq_Isfahan.jpg" title="Folio 11r from *Manṭiq al-ṭayr*, Metropolitan Museum of Art, acc. no. 63.210.11. Note all the other birds looking at the hoopoe, right." lightbox="true" >}}
 
@@ -74,7 +77,8 @@ Of course, this combination of venerating and slaughtering an animal is hardly u
 
 ## Conclusion
 
-
+The little hoopoe bird thus captures much of what this blog aims to be about. 
+That is, the interwoven threads of occult and mystical ideas and practices that span the *longue durée* of Afro-Eurasian thought and culture and extend well into our world today.
 
 ### Notes:
 [^1]: The other two are the crow (*al-ghurãb*) and the quail (*salwã*). Check out [the entry for "bird" in Quran.com's cool "Ontology of Concepts" tool](http://corpus.quran.com/concept.jsp?id=bird). 
@@ -83,6 +87,6 @@ Of course, this combination of venerating and slaughtering an animal is hardly u
 [^4]: R. Drew Griffith, “The Hoopoe’s Name (A Note on ‘Birds’ 48),” *Quaderni Urbinati di Cultura Classica* 26, no. 2 (1987): 59-63, doi 10.2307/20538983. 
 [^5]: [Deut. 14:12-18](https://www.sefaria.org/Deuteronomy.14.12-18?lang=bi&aliyot=0) and [Lev. 11:13-19](https://www.sefaria.org/Leviticus.11.13-19?lang=bi&aliyot=0). 
 [^6]: Nancy Dupree, “An Interpretation of the Role of the Hoopoe in Afghan Folklore and Magic,” *Folklore* 85, no. 3 (1974): 177. 
-[^7]: To be fair, other animals don't fare so well in the *Cyranides* either. See, for example, this [great post](https://recipes.hypotheses.org/tag/cyranides) on a recipe from the text for an amulet made from red coral and seal skin. 
+]: To be fair, other animals don't fare so well in the *Cyranides* either. See, for example, this [great post](https://recipes.hypotheses.org/tag/cyranides) on a recipe from the text for an amulet made from red coral and seal skin. 
 [^8]: The famous ninth-century medical encyclopedia *Firdaws al-ḥikmah*, for example, contains some hoopoe-based remedies. See Schum, "From Egypt to Mount Qāf," 48-49. 
-[^9]: *Sunan Abī Dāwūd* no. 5267 (Kitāb al-ādab), search for "hoopoe" on [this page](https://sunnah.com/abudawud/43) to read the English translation. The other other animals are ants (*al-namlah*), bees (*al-naḥlah*), and sparrow-hawks (*al-ṣurad*).
+[^9]: *Sunan Abī Dāwūd* no. 5267 (Kitāb al-ādab). Search for "hoopoe" on [this page](https://sunnah.com/abudawud/43) to read the English translation. The other other animals are ants (*al-namlah*), bees (*al-naḥlah*), and sparrow-hawks (*al-ṣurad*).
