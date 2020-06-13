@@ -67,10 +67,8 @@ Yemeni medico-magical practitioners interviewed by anthropologist Nancy Dupree i
 A pseudo-Hermetic text known as the *Cyranides*, parts of which date to the fourth century C.E., is perhaps the oldest surviving testament to the idea that various parts of the hoopoe's body are possessed of magical and medicinal properties.
 The text traveled far and wide for over a millennium in Latin, Arabic, and other languages. 
 Suffice to say that none of the procedures it recommends end well for the hoopoe,[^7] and it was just one of many texts that advised slaughtering the bird for its special bits.[^8] 
-
-According to the canonical *ḥadīth* collection *Sunan Abī Dāwūd*, the hoopoe is one of just four animals the Prophet Muḥammad explicitly forbade Muslims to kill9] 
-Given the popularity of the aforementioned texts and practices, however, this hasn't always sufficed to protect the bird in Muslim-majority locales. 
-Indeed, a recent paper by a group of Iranian researchers laments that the bird is practically extinct in some regions of Iran due the continuing prevalence of such practices.[^10]
+According to the canonical *ḥadīth* collection *Sunan Abī Dāwūd*, the hoopoe is one of just four animals the Prophet Muḥammad explicitly forbade Muslims to kill[^9] 
+Given the popularity of the aforementioned texts and practices, however, this hasn't always sufficed to protect it from being hunted in Muslim-majority locales. 
 Of course, this combination of venerating and slaughtering an animal is hardly unique to the hoopoe in the annals of human history.
 
 
@@ -88,4 +86,3 @@ Of course, this combination of venerating and slaughtering an animal is hardly u
 [^7]: To be fair, other animals don't fare so well in the *Cyranides* either. See, for example, this [great post](https://recipes.hypotheses.org/tag/cyranides) on a recipe from the text for an amulet made from red coral and seal skin. 
 [^8]: The famous ninth-century medical encyclopedia *Firdaws al-ḥikmah*, for example, contains some hoopoe-based remedies. See Schum, "From Egypt to Mount Qāf," 48-49. 
 [^9]: *Sunan Abī Dāwūd* no. 5267 (Kitāb al-ādab), search for "hoopoe" on [this page](https://sunnah.com/abudawud/43) to read the English translation. The other other animals are ants (*al-namlah*), bees (*al-naḥlah*), and sparrow-hawks (*al-ṣurad*).
-[^10]: Iranian paper
