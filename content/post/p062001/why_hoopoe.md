@@ -87,6 +87,6 @@ That is, the interwoven threads of occult and mystical ideas and practices that 
 [^4]: R. Drew Griffith, “The Hoopoe’s Name (A Note on ‘Birds’ 48),” *Quaderni Urbinati di Cultura Classica* 26, no. 2 (1987): 59-63, doi 10.2307/20538983. 
 [^5]: [Deut. 14:12-18](https://www.sefaria.org/Deuteronomy.14.12-18?lang=bi&aliyot=0) and [Lev. 11:13-19](https://www.sefaria.org/Leviticus.11.13-19?lang=bi&aliyot=0). 
 [^6]: Nancy Dupree, “An Interpretation of the Role of the Hoopoe in Afghan Folklore and Magic,” *Folklore* 85, no. 3 (1974): 177. 
-]: To be fair, other animals don't fare so well in the *Cyranides* either. See, for example, this [great post](https://recipes.hypotheses.org/tag/cyranides) on a recipe from the text for an amulet made from red coral and seal skin. 
+[^7]: To be fair, other animals don't fare so well in the *Cyranides* either. See, for example, this [great post](https://recipes.hypotheses.org/tag/cyranides) on a recipe from the text for an amulet made from red coral and seal skin. 
 [^8]: The famous ninth-century medical encyclopedia *Firdaws al-ḥikmah*, for example, contains some hoopoe-based remedies. See Schum, "From Egypt to Mount Qāf," 48-49. 
 [^9]: *Sunan Abī Dāwūd* no. 5267 (Kitāb al-ādab). Search for "hoopoe" on [this page](https://sunnah.com/abudawud/43) to read the English translation. The other other animals are ants (*al-namlah*), bees (*al-naḥlah*), and sparrow-hawks (*al-ṣurad*).
