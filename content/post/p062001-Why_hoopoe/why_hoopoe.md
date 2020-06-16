@@ -46,12 +46,12 @@ It then spends several verses shuttling messages back and forth between the two 
 In the end, Solomon succeeds in guiding Bilqīs to the worship of God, though only by dispatching his jinn to whisk her magnificent throne away from her palace in Maʿrib and into his in Jerusalem. 
 A good deal of solar and other cosmological symbolism attends this story of prophethood, kingship, a talking bird (or really, a king who speaks bird), and spirit-beings possessed of preternatural powers, and all these themes tend to adhere to the hoopoe in later Islamic thought. 
 
-For example, one of the bird's most famous roles in Islamic literature is in the thirteenth-century Persian Sufi poet Farīd al-Dīn ʿAttār's *Conference of the Birds* (*Manṭiq al-ṭayr*).[^2]
-In this extended allegory of the Sufi path, in which a mixed flock of birds journeys in search of their mysterious bird-king Simurgh, the hoopoe takes on the role of far-seeing guide and spiritual counselor to its fellow avians.
+For example, one of the bird's most famous roles in Islamic literature is in the thirteenth-century Persian Sufi poet Farīd al-Dīn ʿAṭṭār's *Conference of the Birds* (*Manṭiq al-ṭayr*).[^2]
+In this extended allegory of the Sufi path, in which a mixed flock of birds journeys in search of their mysterious bird-king Simurgh, the hoopoe plays the role of far-seeing guide and spiritual counselor to its fellow avians.
 That is, it becomes the symbol of the Sufi shaykh who sees across the visible and invisible worlds and uses this insight to lead others to inner knowledge of God.
 Not to leave powerful spirit-beings out of the story, ʿAṭṭār supplies the detail that the hoopoe became Solomon's confidante by defeating a demon.
 
-{{< figure library="true" src="Mantiq_Isfahan.jpg" title="Folio 11r from *Manṭiq al-ṭayr*, Metropolitan Museum of Art, acc. no. 63.210.11. Note all the other birds looking at the hoopoe, right." lightbox="true" >}}
+{{< figure library="true" src="Mantiq_Isfahan.jpg" title="From an early 17th-c. Shīrāzī MS of *Manṭiq al-ṭayr*, Metropolitan Museum of Art, acc. no. 63.210.11. Note all the other birds looking at the hoopoe, right." lightbox="true" >}}
 
 ## And in other sources
 
@@ -64,14 +64,14 @@ Whatever the merits of this particular argument, the interplay of the visible an
 
 Not all references to the hoopoe are positive.
 It is twice mentioned in the Hebrew Bible as an unclean animal forbidden to be eaten.[^5] 
-This may help explain why an enormous and somewhat sinister-looking hoopoe appears at the left edge of the center panel of [Hieronymus Bosch's "The Garden of Earthly Delights"](https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg.").
+This may help explain why an enormous and somewhat sinister-looking hoopoe appears at the left edge of the center panel of [Hieronymus Bosch's "The Garden of Earthly Delights."](https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg.")
 It's also widely agreed upon that the hoopoe literally stinks, though the meanings attributed to this can differ. 
 Yemeni medico-magical practitioners interviewed by anthropologist Nancy Dupree in the 1970s, for example, argued that God gave the hoopoe its foul odor to protect it from humans seeking to capture or kill it in order to exploit its wondrous properties.[^6]
 
 A pseudo-Hermetic text known as the *Cyranides*, parts of which date to the fourth century C.E., is perhaps the oldest surviving testament to the idea that various parts of the hoopoe's body are possessed of magical and medicinal properties.
 The text traveled far and wide for over a millennium in Latin, Arabic, and other languages. 
 Suffice to say that none of the procedures it recommends end well for the hoopoe,[^7] and it was just one of many texts that advised slaughtering the bird for its special bits.[^8] 
-According to the canonical *ḥadīth* collection *Sunan Abī Dāwūd*, the hoopoe is one of just four animals the Prophet Muḥammad explicitly forbade Muslims to kill[^9] 
+According to the canonical *ḥadīth* collection *Sunan Abī Dāwūd*, the hoopoe is one of just four animals the Prophet Muḥammad explicitly forbade Muslims to kill.[^9] 
 Given the popularity of the aforementioned texts and practices, however, this hasn't always sufficed to protect it from being hunted in Muslim-majority locales. 
 Of course, this combination of venerating and slaughtering an animal is hardly unique to the hoopoe in the annals of human history.
 
@@ -82,7 +82,7 @@ The little hoopoe bird thus captures much of what this blog aims to be about.
 That is, the interwoven threads of occult and mystical ideas and practices that span the *longue durée* of Afro-Eurasian thought and culture and extend well into our world today.
 
 ### Notes:
-[^1]: The other two are the crow (*al-ghurãb*) and the quail (*salwã*). Check out [the entry for "bird" in Quran.com's cool "Ontology of Concepts" tool](http://corpus.quran.com/concept.jsp?id=bird). 
+[^1]: The other two are the crow (*al-ghurāb*) and the quail (*salwā*). Check out [the entry for "bird" in Quran.com's cool "Ontology of Concepts" tool](http://corpus.quran.com/concept.jsp?id=bird). 
 [^2]: Here's a [link to the Afkham Darbandi/Dick Davis translation of *The Conference of the Birds*](https://archive.org/details/theconferenceofthebirds_201911/page/n3/mode/2up?q=hoopoe) (New York: Penguin, 1984) with mentions of the hoopoe highlighted. 
 [^3]: For an excellent and recently-written roundup of humanistic scholarship on the hoopoe, see Timothy Schum, “From Egypt to Mount Qāf: The Symbolism of the Hoopoe in Muslim Literature and Folklore,” *Journal of Islamic and Muslim Studies* 3, no. 1 (2018): 37–57. 
 [^4]: R. Drew Griffith, “The Hoopoe’s Name (A Note on ‘Birds’ 48),” *Quaderni Urbinati di Cultura Classica* 26, no. 2 (1987): 59-63, doi 10.2307/20538983. 
