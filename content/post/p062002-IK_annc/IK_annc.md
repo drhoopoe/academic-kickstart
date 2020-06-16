@@ -1,5 +1,5 @@
 ---
-title: "Book announcement: Ibn Khaldūn versus the Occultists at Barqūq's Court"
+title: "Book announcement: Ibn Khaldūn versus the occultists at Barqūq's court"
 authors: 
 - admin
 tags:
@@ -20,14 +20,14 @@ featured: false
 
 ## Coming soon from EB-Verlag Berlin
 
-I'm pleased to announce that I have a monograph coming out soon from EB-Verlag Berlin, *Ibn Khaldūn versus the Occultists at Barqūq's Court: The Critique of Lettrism in* al-Muqaddimah.
+I'm pleased to announce that I have a monograph coming out soon from EB-Verlag Berlin, *Ibn Khaldūn versus the occultists at Barqūq's court: The critique of lettrism in* al-Muqaddimah.
 
 This little book is the fruition of a project I began in earnest during my 2015-16 tenure as a postdoctoral fellow at [Annemarie Schimmel Kolleg](https://www.mamluk.uni-bonn.de/), the research center at Rheinische-Friedrich-Wilhelms-Universität Bonn devoted to the Mamlūks/Cairo Sultanate[^1] and their neighbors.
 It was originally intended to be my "working paper" for the fellowship, grew from there, and is now being published as part of the Kolleg's Ulrich Haarmann Memorial Lecture series.
 
 Like it says in the abstract...
 
-> This brief monograph is a close examination of the chapter dealing with the occult “science of letters and names” (*ʿilm al-ḥurūf wa-l-asmāʾ*) in the sixth faṣl of Ibn Khaldūn's (d. 808/1406) famous (*al-Muqaddimah*. 
+> This brief monograph is a close examination of the chapter dealing with the occult “science of letters and names” (*ʿilm al-ḥurūf wa-l-asmāʾ*) in the sixth *faṣl* of Ibn Khaldūn's (d. 808/1406) famous (*al-Muqaddimah*. 
 > It is argued that his views on this Sufi occult discourse are best understood in light of a rising tide of interest in lettrism, other occult disciplines, and millenarianism among the learned classes of eighth/fourteenth century Cairo, especially at the court of his patron, the Mamluk sultan al-Malik al-Ẓāhir Barqūq. 
 > On the basis of multiple recensions of the work, the text is approached as one that the author adapted over time according to his shifting personal situation and contentions with various interlocutors. 
 > Particular attention is paid to Süleymaniye MS Damad Ibrahim 863, the recension prepared for donation to Barqūq's sultanal library. 
