@@ -27,7 +27,7 @@ It was originally intended to be my "working paper" for the fellowship, grew fro
 
 As for what it's about...
 
-> This brief monograph is a close examination of the chapter dealing with the occult “science of letters and names” (*ʿilm al-ḥurūf wa-l-asmāʾ*) in the sixth *faṣl* of Ibn Khaldūn's (d. 808/1406) famous (*al-Muqaddimah*. 
+> This brief monograph is a close examination of the chapter dealing with the occult “science of letters and names” (*ʿilm al-ḥurūf wa-l-asmāʾ*) in the sixth *faṣl* of Ibn Khaldūn's (d. 808/1406) famous *al-Muqaddimah*. 
 > It is argued that his views on this Sufi occult discourse are best understood in light of a rising tide of interest in lettrism, other occult disciplines, and millenarianism among the learned classes of eighth/fourteenth century Cairo, especially at the court of his patron, the Mamluk sultan al-Malik al-Ẓāhir Barqūq. 
 > On the basis of multiple recensions of the work, the text is approached as one that the author adapted over time according to his shifting personal situation and contentions with various interlocutors. 
 > Particular attention is paid to Süleymaniye MS Damad Ibrahim 863, the recension prepared for donation to Barqūq's sultanal library. 
